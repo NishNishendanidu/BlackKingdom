@@ -13,7 +13,7 @@ const Image = require('./Image');
 class ReplyMessage extends Base {
     constructor(client, data) {
         super(client);
-        if (data) this._patch(data);
+        if (data) this._patch(data); 
     }
 
     _patch(data) {
