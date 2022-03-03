@@ -8,7 +8,7 @@ Mizuki - Mr.joka
 
 const {MessageType, Presence, MessageOptions} = require('@adiwajshing/baileys');
 const Base = require('./Base');
-const Message = require('./Message');
+const Message = require('./Message'); 
 const ReplyMessage = require('./ReplyMessage');
 
 class Video extends Base {
