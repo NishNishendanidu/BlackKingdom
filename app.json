@@ -1,5 +1,5 @@
 {
-    "name": "👹👹 BLACKKINGDOM-X WHATSAPP BOT👹👹 Bot",
+    "name": "👹👹 Kingamda-X-X WHATSAPP BOT👹👹 Bot",
     "description": "BlackKingdom-X is a chat bot for WhatsApp.",
     "logo": "https://telegra.ph/file/24cacd9938446a38180fd.png",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai", "Maraya"],
@@ -8,7 +8,7 @@
     "success_url": "https://chat.whatsapp.com/Hm79J2saLrvRTkq",
     "stack": "container",
     "env": {
-        "BLACKKINGDOM-X_SESSION": {
+        "Kingamda-X_SESSION": {
             "description": "Qr කේතය scan කළ පසුව ලැබෙන කේතයන්",
             "required": true
         },
