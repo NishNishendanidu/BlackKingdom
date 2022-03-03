@@ -170,7 +170,7 @@
             "TRANSLATE_ERROR": "❌ පරිවර්තනය කිරීමේදී දෝෂයක් සිදුවිය!*",
             "CURRENCY_ERROR": "```Syntax error! උදාහරණයක්: .currency 1 USD LKR```",
             "INVALID_CURRENCY": "```විදේශ මුදල් ගනුදෙනුව අසාර්ථක විය. ඔබ වැරදි මුදල් ලියා ඇත!```",
-            "UNKNOWN_ERROR": "```දෝෂයක් ඇතිවිය. විදේශ මුදල් ගනුදෙනුව අසාර්ථක විය!```",
+            "UNKNOWN_ERROR": "```Kingamda-X ⚡⚡දෝෂයක් ඇතිවිය.!```",
             "TTS_DESC": "එය වචන voice messageට පරිවර්තනය කරයි.",
             "TTS_ERROR": "```දෝෂය, ඔබේ වාක්‍යයේ කථන voice message කළ නොහැක!```",
             "SONG_DESC": "ඔබ ලියූ ගීතය උඩුගත කරයි.",
